@@ -80,3 +80,21 @@ input[type="checkbox"]{
 #riga_speciale{
   background-color: white;
 }
+
+/* Footer  */
+#site_footer{
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#site_footer .bold{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#site_footer .italic{
+  font-style: italic;
+}
+
+
