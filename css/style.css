@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg");
+  width: 80%;
+  margin: auto;
+}
+
+#site_header{
+  border-bottom: 1px solid white;
+  padding: 20px 0px;
+}
+
+#site_header h1{
+  display: inline-block;
+  color: white;
+  vertical-align: middle;
+}
+
+#site_header img{
+  vertical-align: middle;
+}
