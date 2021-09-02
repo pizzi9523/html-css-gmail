@@ -10,6 +10,7 @@ body{
   margin: auto;
 }
 
+/* Header  */
 #site_header{
   border-bottom: 1px solid white;
   padding: 20px 0px;
@@ -23,4 +24,32 @@ body{
 
 #site_header img{
   vertical-align: middle;
+}
+
+#navigazione{
+  padding: 10px 0px;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+input[type="search"]{
+padding: 0px 5px;
+height: 25px;
+}
+
+#navigazione button{
+  padding: 1px 8px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#navigazione h2{
+  padding: 18px 0px;
+  font-size: 2.2rem;
+}
+
+h2 span{
+  background-color: #FF990F;
+  padding: 12.5px;
+  border-radius: 50%;
 }
