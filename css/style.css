@@ -25,7 +25,7 @@ body{
 #site_header img{
   vertical-align: middle;
 }
-
+/* Navigazione  */
 #navigazione{
   padding: 10px 0px;
   color: white;
@@ -52,4 +52,31 @@ h2 span{
   background-color: #FF990F;
   padding: 12.5px;
   border-radius: 50%;
+}
+
+/* Lista mail  */
+#lista_mail{
+  border-bottom: 1px solid white;
+  padding: 10px 0;
+}
+.riga{
+  background-color: #CDCDCD;
+   border: 1px solid black;
+}
+.riga div{
+  display: inline-block;
+}
+
+.oggetto{
+  font-weight: bold;
+}
+.testo{
+  color: #787878;
+}
+input[type="checkbox"]{
+  margin: 6.5px;
+}
+
+#riga_speciale{
+  background-color: white;
 }
